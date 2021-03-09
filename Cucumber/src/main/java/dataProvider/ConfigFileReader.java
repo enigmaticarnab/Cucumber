@@ -8,6 +8,8 @@ import java.util.Properties;
 
 import enums.DriverType;
 import enums.EnvironmentType;
+
+
 //this class is for config file reader
 public class ConfigFileReader {
 	private Properties properties ;
