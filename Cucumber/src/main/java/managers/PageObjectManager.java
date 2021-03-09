@@ -6,7 +6,7 @@ import pageObjects.CartPage;
 import pageObjects.CheckoutPage;
 import pageObjects.HomePage;
 import pageObjects.ProductListingPage;
-
+//tHE BELOW CODE IS TO IMPLEMENT PAGE OBJECT PATTERN
 public class PageObjectManager {
 
 	private WebDriver driver ;
