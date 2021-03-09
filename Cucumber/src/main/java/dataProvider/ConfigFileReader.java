@@ -8,7 +8,7 @@ import java.util.Properties;
 
 import enums.DriverType;
 import enums.EnvironmentType;
-
+//this is for proper understanding of Branching
 public class ConfigFileReader {
 	private Properties properties ;
 	private final String propertyFilePath="configs//Configuration.properties";
