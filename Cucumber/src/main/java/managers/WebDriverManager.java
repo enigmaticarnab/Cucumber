@@ -1,5 +1,5 @@
 package managers;
-
+// THIS CLASS IS FOR WebDiverManager
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
